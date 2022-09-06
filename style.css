@@ -1,0 +1,33 @@
+html, body {
+    margin: 0%;
+    padding: 0%;
+}
+
+.header{
+    background-color:black;
+    position: relative; 
+}
+    
+
+.logo{
+    width: 100px;
+    margin-left: 50px;
+}
+.Home Page, ul {
+    list-style: none; 
+}
+
+.Home Page, li {
+    display: inline;
+    cursor: pointer;
+    padding: 9px;
+}
+
+.nav, li {
+    color: aliceblue; 
+}
+
+.Home Page{
+    border: 1px solid white;
+    bottom: 25%;
+}
